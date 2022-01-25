@@ -1,0 +1,2 @@
+site_name,posa_continent,user_location_country,user_location_region,user_location_city,orig_destination_distance,is_mobile,is_package,channel,srch_adults_cnt,srch_children_cnt,srch_rm_cnt,srch_destination_id,srch_destination_type_id,cnt,hotel_continent,hotel_country,hotel_market,hotel_cluster,stay_duration,0,1,2
+2,3,66,467,14058,1658.5228,0,1,1,4,0,1,8791,1,1,4,8,110,52,0,-23334.46389,-0.460068124,-0.023121433
